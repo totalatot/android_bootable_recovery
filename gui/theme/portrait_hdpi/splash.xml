@@ -27,7 +27,7 @@
 			<background color="%background_color%"/>
 
 			<fill color="%header_color%">
-				<placement x="0" y="0" w="%screen_width%" h="456"/>
+				<placement x="0" y="0" w="%screen_width%" h="0"/>
 			</fill>
 
 			<image>
@@ -43,7 +43,12 @@
 			<text color="%header_color%">
 				<font resource="font_l"/>
 				<placement x="540" y="1590" placement="5"/>
-				<text>Recovery Project %tw_version%</text>
+				<text>Moto X Pro Recovery %tw_version%</text>
+			</text>
+			<text color="%header_color%">
+				<font resource="font_l"/>
+				<placement x="540" y="1640" placement="5"/>
+				<text>Compiled by JingShao QQ:2239298161</text>
 			</text>
 		</page>
 	</pages>
