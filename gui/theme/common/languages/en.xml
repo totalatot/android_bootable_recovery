@@ -716,5 +716,7 @@
 		<string name="include_kernel_log">Include Kernel Log</string>
 		<string name="sha2_chk">Use SHA2 for hashing</string>
 		<string name="unable_set_boot_slot">Error changing bootloader boot slot to {1}</string>
+		<string name="author_info">TWRP for Moto X Pro by JingShao QQ:2239298161</string>
+		<string name="author_me">JingShao QQ:2239298161</string>
 	</resources>
 </language>
