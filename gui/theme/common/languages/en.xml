@@ -740,5 +740,7 @@
 		<string name="flash_ab_reboot">To flash additional zips, please reboot recovery to switch to the updated slot.</string>
 		<string name="ozip_decrypt_decryption">Starting Ozip Decryption...</string>
 		<string name="ozip_decrypt_finish">Ozip Decryption Finished!</string>
+		<string name="author_info">TWRP for Moto X Pro by JingShao QQ:2239298161</string>
+		<string name="author_me">JingShao QQ:2239298161</string>
 	</resources>
 </language>
