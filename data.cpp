@@ -758,9 +758,9 @@ void DataManager::SetDefaultValues()
 	mPersist.SetValue(TW_SDEXT_SIZE, "0");
 	mPersist.SetValue(TW_SWAP_SIZE, "0");
 	mPersist.SetValue(TW_SDPART_FILE_SYSTEM, "ext3");
-	mPersist.SetValue(TW_TIME_ZONE_GUISEL, "TAIST-8");
+	mPersist.SetValue(TW_TIME_ZONE_GUISEL, "TAIST-8;TAIDT");
 	mPersist.SetValue(TW_TIME_ZONE_GUIOFFSET, "0");
-	mPersist.SetValue(TW_TIME_ZONE_GUIDST, "1");
+	mPersist.SetValue(TW_TIME_ZONE_GUIDST, "0");
 	mData.SetValue(TW_ACTION_BUSY, "0");
 	mData.SetValue("tw_wipe_cache", "0");
 	mData.SetValue("tw_wipe_dalvik", "0");
