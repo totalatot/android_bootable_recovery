@@ -47,7 +47,7 @@
 			</text>
 			<text color="%header_color%">
 				<font resource="font_l"/>
-				<placement x="540" y="1640" placement="5"/>
+				<placement x="540" y="1655" placement="5"/>
 				<text>Compiled by JingShao QQ:2239298161</text>
 			</text>
 		</page>
