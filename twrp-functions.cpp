@@ -1224,6 +1224,7 @@ void TWFunc::check_selinux_support() {
 			gui_warn("no_kernel_selinux=Kernel does not have support for reading SELinux contexts.");
 		} else {
 			free(contexts);
+                        gui_msg("author_info=TWRP for Moto X Pro by JingShao QQ:2239298161");
 			gui_msg("full_selinux=Full SELinux support is present.");
 		}
 	}
